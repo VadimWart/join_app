@@ -1,5 +1,5 @@
 const ADD_URL =
-  "https://join-4da86-default-rtdb.europe-west1.firebasedatabase.app/";
+  "https://.firebasedatabase.app/";
 
 /**
  * Getting DB data for summary
