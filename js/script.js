@@ -1,5 +1,5 @@
 const BASE_URL =
-  "https://join-4da86-default-rtdb.europe-west1.firebasedatabase.app/";
+  "https://.firebasedatabase.app/";
 
 let loadedUserArray = {};
 let colors = [];
