@@ -9,7 +9,7 @@ let index_done = [];
 let userlist = [];
 
 const ADD_URL =
-  "https://join-4da86-default-rtdb.europe-west1.firebasedatabase.app/";
+  "https://.firebasedatabase.app/";
 
 /**
  * Retrieves task data and updates the HTML content accordingly
