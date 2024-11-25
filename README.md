@@ -55,6 +55,13 @@ Any changes made are immediately reflected across devices.
 
 ---
 
+## 🌐 Live Demo
+
+- **Play the Game**: [Live Test](http://join.vadim-wart.com/)  
+- **GitHub Repository**: [GitHub Link](https://github.com/VadimWart/join_app.git/)
+
+---
+
 ## 🌟 Screenshots
 
 ### Login Screen
