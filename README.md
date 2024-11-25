@@ -69,6 +69,18 @@ Any changes made are immediately reflected across devices.
 ### Task Details
 ![Task Details](./join_cont.png)
 
+
+---
+## 📧 Contact
+
+If you have any questions or would like to connect, feel free to reach out to me:
+
+- **Email**: [your.email@example.com](mailto:contact@vadim-wart.com)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/vadim-wart-a4564a32a)
+- **GitHub**: [Your GitHub](https://github.com/VadimWart)
+
+I'm always happy to discuss new opportunities, collaborations, or just connect with like-minded professionals! 😊
+
  
  
 
